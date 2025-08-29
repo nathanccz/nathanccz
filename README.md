@@ -4,12 +4,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I currently live in Colorado.
-- 🔭 I’m a software engineer with a background in mathematics.
-- 🌱 I’m passionate about full stack web development, and educational websites and applications.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Nathan and I'm based in Los Angeles and the Bay Area.
+- 🔭 I’m a software engineer with a background in English literature and communications.
+- 🌱 I’m passionate about crafting website and full-stack web apps that empower people.
 - 🎥 I enjoy making technical content on Twitch, Twitter, Bluesky, and Youtube.
-- 👯 I’m currently open to job opportunities for Frontend or Full Stack developer roles, as well as DevRel or Dev Advocate positions.
-- 💬 Ask me about Websites, Apps, Math, or Technical content creation.
+- 👯 I’m currently open to job opportunities for front-end, back-end or full-stack developer roles.
+- 💬 Ask me anything! I welcome messages and love to get to know other developers. 
 
 <p>Full Stack web developer passionate about math and problem solving, currently open to opportunities either as a developer or devrel and dev advocate. Also open to sponsorships for my twitch streams. Experienced in TypeScript, React, Laravel, PHP, MySQL, and Tailwind to build responsive sites and applications. I also have experience building APIs in Python using FastAPI and Flask, as well as Java using Spring Boot.
 </ p>
@@ -22,13 +22,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Animal Crossing App</h2>
+<h3 align="center" color="white">Movierec.ai App</h2>
 <div align="center" >  
 <a href='https://animal-crossing-app.netlify.app/'> 
 </a>
   
- https://user-images.githubusercontent.com/97814431/168460272-1a8301a8-6c28-48ef-84ac-cb8a8f080ca2.mp4
-  
+ https://github.com/user-attachments/assets/5e89c889-6778-4a78-9b68-6b5a1678300b
+
+
 <br>
 <br>
 <p>
@@ -48,7 +49,9 @@
 <a href='https://github.com/leahthompson01/MathApp'> 
 </a>
   
-https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-9fc1-4d48cdad75f7.mp4
+https://github.com/user-attachments/assets/56148fd7-a0d7-444b-8bae-2183461acdac
+
+
   
 <br>
 <br>
