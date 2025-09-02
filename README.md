@@ -4,14 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Nathan and I'm based in Los Angeles and the Bay Area.
-- 🔭 I’m a software engineer with a background in English literature and communications.
-- 🌱 I’m passionate about crafting website and full-stack web apps that empower people.
-- 🎥 I enjoy making technical content on Twitch, Twitter, Bluesky, and Youtube.
+- 👨🏻‍💻 My name's Nathan and I'm based in Los Angeles and the Bay Area.
+- 📚 I’m a software engineer with a background in English literature and communications.
+- 🖥️ I’m passionate about crafting websites and full-stack web apps that empower people.
 - 👯 I’m currently open to job opportunities for front-end, back-end or full-stack developer roles.
 - 💬 Ask me anything! I welcome messages and love to get to know other developers. 
 
-<p>Full Stack web developer passionate about math and problem solving, currently open to opportunities either as a developer or devrel and dev advocate. Also open to sponsorships for my twitch streams. Experienced in TypeScript, React, Laravel, PHP, MySQL, and Tailwind to build responsive sites and applications. I also have experience building APIs in Python using FastAPI and Flask, as well as Java using Spring Boot.
+<p>A full-stack web developer with previous experience building and maintaining internal employee web portals for clients across many industries, including Cisco, Safeway and Corning. My tech stack includes JavaScript, React, Node/Express, MongoDB, PostgresQL, and Tailwind to build responsive sites and applications. I also have experience building APIs in Node.js and Express.
 </ p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -22,12 +21,19 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Movierec.ai App</h2>
+<h3 align="center" color="white">ClientFlow App</h2>
 <div align="center" >  
 <a href='https://animal-crossing-app.netlify.app/'> 
 </a>
   
- https://github.com/user-attachments/assets/5e89c889-6778-4a78-9b68-6b5a1678300b
+
+
+
+https://github.com/user-attachments/assets/f2fe83cd-a320-4e27-8357-d8de9f75c6cc
+
+
+
+
 
 
 <br>
@@ -41,7 +47,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager by clicking on the button. This info is displayed on a playing card.</p>
+<p><strong>React/Vite, Tailwind, Appwrite</strong> - I built ClientFlow to help developers track client leads, store proposals, and manage projects. Back-end currently being refactored with Postgres. It was selected as one of the top "Most Helpful" apps in a 2024 Hackathon at #100Devs, sponsored by Appwrite.</p>
 </div>
 
   <h3 align="center" color="white">Operation Battles</h2>
@@ -68,12 +74,12 @@ https://github.com/user-attachments/assets/56148fd7-a0d7-444b-8bae-2183461acdac
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Capital Hack</h2>
+<h3 align="center" color="white">movierec.ai App</h2>
 <div align="center" >  
 <a href='https://capital-hack.netlify.app/'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-8916-1c19bb1b5243.mp4
+https://github.com/user-attachments/assets/63196f9a-8f18-4ac9-9125-e5054056abf7
   
 <br>
 <br>
@@ -85,14 +91,13 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
-</div>
+<p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - This is movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any question you like! You can also fave, review or add to your watchlist as you discover more titles.</p>
   <h3 align="center" color="white">Above the Horizon</h2>
 <div align="center" >  
 <a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-947b-b63722c42e64.mp4
+[https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-8916-1c19bb1b5243.mp4](https://github.com/user-attachments/assets/56148fd7-a0d7-444b-8bae-2183461acdac)
   
 <br>
 <br>
