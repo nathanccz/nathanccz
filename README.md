@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/8583c45d-c8fb-4b60-9fe3-a282a1079faf
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - This is an educational web app that harnesses the power of NASA's APIs to offer a glimpse into the agency. It lets you transform technical project summaries into readable articles, plus the ability to view the Astronomy Picturex of the Day (APODx) dating back to 1997! </p>
+<p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - This is an educational web app that harnesses the power of NASA's APIs to offer a glimpse into the agency. It lets you transform technical project summaries into readable articles, plus the ability to view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
 </div>
 </td>
 <td width="50%">
