@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
         <p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - This is an educational web app that harnesses the power of NASA's APIs to offer a glimpse into the agency. It lets you transform technical project summaries into readable articles, plus the ability to view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Spaced Repetition Tracker</h3>
         <br />
 
 
@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/1330ed7d-24d1-48d9-a969-16595ac52ff4
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, Handlebars, Node/Express</strong> - Built as a companion piece for Anki, this web app is meant to help developers track their Anki sessions for a variety of technologies. You built out a high-level list of topics then rate your recall sessions and store them in a history.</p>
+        <p><strong>JavaScript, Handlebars, Node/Express</strong> - Built as a companion piece for Anki, this web app is meant to help developers track their Anki sessions for a variety of technologies. You build out a high-level list of topics then rate your recall sessions and store them in a history.</p>
     </td>
   </tr>
 </table>
