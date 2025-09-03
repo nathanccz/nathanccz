@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/f2fe83cd-a320-4e27-8357-d8de9f75c6cc
 <p><strong>React/Vite, Tailwind, Appwrite</strong> - I built ClientFlow to help developers track client leads, store proposals, and manage projects. Back-end currently being refactored with Postgres. It was selected as one of the top "Most Helpful" apps in a 2024 Hackathon at #100Devs, sponsored by Appwrite.</p>
 </div>
 
-  <h3 align="center" color="white">Operation Battles</h2>
+  <h3 align="center" color="white">Galaxy Snapshot</h2>
 <div align="center" >  
 <a href='https://github.com/leahthompson01/MathApp'> 
 </a>
