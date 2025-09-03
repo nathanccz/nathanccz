@@ -88,10 +88,14 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
+
+
+        
+
+https://github.com/user-attachments/assets/1330ed7d-24d1-48d9-a969-16595ac52ff4
+
+
+  <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
@@ -101,7 +105,7 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>JavaScript, Handlebars, Node/Express</strong> - Built as a companion piece for Anki, this web app is meant to help developers track their Anki sessions for a variety of technologies. You built out a high-level list of topics then rate your recall sessions and store them in a history.</p>
     </td>
   </tr>
 </table>
