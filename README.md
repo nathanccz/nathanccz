@@ -4,13 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
-- 🌆 My name's Nathan and I'm based in Los Angeles and the Bay Area.
+- 🌆 My name's Nathan and I'm based in Southern California and the Bay Area.
 - 📚 I’m a software engineer with a background in English literature and communications.
 - 🖥️ I’m passionate about crafting websites and full-stack web apps that empower people.
 - 👨🏻‍💻 I’m currently open to job opportunities for front-end, back-end or full-stack developer roles.
 - 💬 Ask me anything! I welcome messages and love to get to know other developers. 
 
-<p>A full-stack web developer with previous experience building and maintaining internal employee web portals for clients across many industries, including Cisco, Safeway and Corning. My tech stack includes JavaScript, React, Node/Express, MongoDB, PostgresQL, and Tailwind to build responsive sites and applications. I also have experience building APIs in Node.js and Express.
+<p>A full-stack web developer with previous experience building websites and maintaining internal employee web portals for clients across many industries, including Cisco, Safeway and Corning. My tech stack includes JavaScript, React, Node/Express, MongoDB, PostgresQL and Tailwind to build responsive sites and applications. I also have experience building APIs in Node.js and Express.
 </ p>
 
 <h3 align="center">Languages and Tools:</h3>
