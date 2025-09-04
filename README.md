@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/1fe3d58d-df5e-4eb7-8471-087985d020df
         
   <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://github.com/nathanccz/freelance-tracker-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
@@ -54,14 +54,14 @@ https://github.com/user-attachments/assets/9577740c-a636-45bd-a4a2-a149211827a3
   <br />
     <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/nathanccz/movie-rec-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - This is movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film- or TV-related question you like! You can also fave, review or add to your watchlist as you discover more titles.</p>
+        <p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - This is a movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film- or TV-related question you like! You can also fave, review or add to your watchlist as you discover more titles.</p>
     </td>
   </tr>
   
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
 
   <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/nathanccz/galaxy-snapshot-react-tailwind" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/5ee3bcd6-6e8f-4692-9811-8b0417062c8f
   <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/nathanccz/spaced-repetition-refactored" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://poke-matchcards.netlify.app" target="_blank">
