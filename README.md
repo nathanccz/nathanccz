@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/1fe3d58d-df5e-4eb7-8471-087985d020df
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Vite, Tailwind, Appwrite</strong> - I built ClientFlow to help developers track client leads, store proposals, and manage projects. Back-end currently being refactored with Postgres. It was selected as one of the top "Most Helpful" apps in a 2024 Hackathon at #100Devs, sponsored by Appwrite.</p>
+        <p><strong>React/Vite, Tailwind, Appwrite</strong> - ClientFlow helps developers track client leads, store documents, and manage projects. Back-end currently being refactored with Postgres. It was selected as one of the top "Most Helpful" apps in a 2024 Hackathon at #100Devs, sponsored by Appwrite.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">movierec.ai App</h3>
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/9577740c-a636-45bd-a4a2-a149211827a3
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - This is a movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film- or TV-related question you like! You can also fave, review or add to your watchlist as you discover more titles.</p>
+        <p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - A movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film-related question you like! You can also fave, review or add titles to your watchlist.</p>
     </td>
   </tr>
   
@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - This is an educational web app that harnesses the power of NASA's APIs to offer a glimpse into the agency. It lets you transform technical project summaries into readable articles, plus the ability to view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
+        <p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - An educational web app that harnesses the power of NASA's APIs, letting you transform project summaries into short articles, plus you can view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Spaced Repetition Tracker</h3>
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/5ee3bcd6-6e8f-4692-9811-8b0417062c8f
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, Handlebars, Node/Express</strong> - Built as a companion piece for Anki, this web app is meant to help developers track their Anki sessions for a variety of technologies. You build out a high-level list of topics then rate your recall sessions and store them in a history.</p>
+        <p><strong>JavaScript, Handlebars, Node/Express</strong> - A companion piece for Anki, this web app helps developers track their Anki sessions for various technologies. You build your own list of topics then rate your recall sessions and store them in a history.</p>
     </td>
   </tr>
 </table>
