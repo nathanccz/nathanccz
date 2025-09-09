@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/9577740c-a636-45bd-a4a2-a149211827a3
   </a>
   
   </p>
-        <p><strong>React/Vite, DaisyUI, GSAP, Node/Express</strong> - A movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film-related question you like! You can also fave, review or add titles to your watchlist.</p>
+        <p><strong>React/Vite, GSAP, Node/Express</strong> - A movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film-related question you like! You can also fave, review or add titles to your watchlist.</p>
     </td>
   </tr>
   
@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/097f753b-bf81-454f-91d1-328d6f4f01fb
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Vite, GSAP, Custom REST API via Node/Express</strong> - An educational web app that lets you transform NASA project summaries into short articles, plus you can view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
+        <p><strong>React/Vite, GSAP, Custom REST API</strong> - An educational web app that lets you transform NASA project summaries into short articles, plus you can view the Astronomy Picture of the Day (APOD) dating back to 1997! </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Spaced Repetition Tracker</h3>
