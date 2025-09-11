@@ -1,11 +1,11 @@
 <!-- ![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://user-images.githubusercontent.com/97814431/168457214-e9e85f76-04b1-4c2d-892f-b72bfdf635a6.png) -->
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Nathan Casarez</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, welcome to my portfolio.</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
 - 🌆 My name's Nathan and I'm based in Southern California and the Bay Area.
-- 📚 I’m a software engineer with a background in English literature and communications.
+- 📚 I’m a software engineer with a background in communications.
 - 🖥️ I’m passionate about crafting websites and full-stack web apps that empower people.
 - 👨🏻‍💻 I’m currently open to job opportunities for front-end, back-end or full-stack developer roles.
 - 💬 Ask me anything! I welcome messages and love to get to know other developers. 
