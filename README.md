@@ -1,14 +1,14 @@
 <!-- ![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://user-images.githubusercontent.com/97814431/168457214-e9e85f76-04b1-4c2d-892f-b72bfdf635a6.png) -->
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, welcome to my portfolio.</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, welcome to my GitHub</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
 - 🌆 My name's Nathan and I'm based in Southern California and the Bay Area.
 - 📚 I’m a software engineer with a background in communications.
-- 🖥️ I’m passionate about crafting websites and full-stack web apps that empower people.
+- 🖥️ I’m passionate about crafting websites and full-stack web apps that empower.
 - 👨🏻‍💻 I’m currently open to job opportunities for front-end, back-end or full-stack developer roles.
-- 💬 Ask me anything! I welcome messages and love to get to know other developers. 
+- 💬 Ask me anything! I welcome messages and love to get to know people from all walks of life. 
 
 <p>A full-stack web developer with previous experience building websites and maintaining internal employee web portals for clients across many industries, including Cisco, Safeway and Corning. My tech stack includes JavaScript, React, Node/Express, MongoDB, PostgresQL and Tailwind to build responsive sites and applications. I also have experience building APIs in Node.js and Express.
 </ p>
