@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/9577740c-a636-45bd-a4a2-a149211827a3
   </a>
   
   </p>
-        <p><strong>React/Vite, GSAP, Node/Express</strong> - A movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film-related question you like! You can also fave, review or add titles to your watchlist.</p>
+        <p><strong>React/Vite, GSAP, Node/Express</strong> - A movie discovery app that leverages Groq AI API to generate recommendations via chat - just ask it any film-related question you like! You can also fave, review or add titles to your watchlist as you discover new titles.</p>
     </td>
   </tr>
   
